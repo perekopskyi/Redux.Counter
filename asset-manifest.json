@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/ReduxCounter/static/js/main.9855094d.chunk.js",
-    "main.js.map": "/ReduxCounter/static/js/main.9855094d.chunk.js.map",
-    "runtime-main.js": "/ReduxCounter/static/js/runtime-main.d5647fce.js",
-    "runtime-main.js.map": "/ReduxCounter/static/js/runtime-main.d5647fce.js.map",
+    "main.js": "/ReduxCounter/static/js/main.0c2b944e.chunk.js",
+    "main.js.map": "/ReduxCounter/static/js/main.0c2b944e.chunk.js.map",
+    "runtime-main.js": "/ReduxCounter/static/js/runtime-main.1df876d0.js",
+    "runtime-main.js.map": "/ReduxCounter/static/js/runtime-main.1df876d0.js.map",
     "index.html": "/ReduxCounter/index.html",
-    "precache-manifest.68e96212fda50d8bd3224bc02d519e66.js": "/ReduxCounter/precache-manifest.68e96212fda50d8bd3224bc02d519e66.js",
+    "precache-manifest.6a5cd7ddd0ccd52f35c7e9153e07026e.js": "/ReduxCounter/precache-manifest.6a5cd7ddd0ccd52f35c7e9153e07026e.js",
     "service-worker.js": "/ReduxCounter/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5647fce.js",
-    "static/js/main.9855094d.chunk.js"
+    "static/js/runtime-main.1df876d0.js",
+    "static/js/main.0c2b944e.chunk.js"
   ]
 }
