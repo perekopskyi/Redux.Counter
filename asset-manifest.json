@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/ReduxCounter/static/js/main.9855094d.chunk.js",
+    "main.js.map": "/ReduxCounter/static/js/main.9855094d.chunk.js.map",
+    "runtime-main.js": "/ReduxCounter/static/js/runtime-main.d5647fce.js",
+    "runtime-main.js.map": "/ReduxCounter/static/js/runtime-main.d5647fce.js.map",
+    "index.html": "/ReduxCounter/index.html",
+    "precache-manifest.68e96212fda50d8bd3224bc02d519e66.js": "/ReduxCounter/precache-manifest.68e96212fda50d8bd3224bc02d519e66.js",
+    "service-worker.js": "/ReduxCounter/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5647fce.js",
+    "static/js/main.9855094d.chunk.js"
+  ]
+}
