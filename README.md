@@ -1,3 +1,3 @@
 # Counter on Redux
 
-[ReduxCounter] (https://perekopskyi.github.io/ReduxCounter/)
+[ReduxCounter](https://perekopskyi.github.io/ReduxCounter/)
